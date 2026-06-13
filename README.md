@@ -1,12 +1,22 @@
-Bank Marketing Data Analysis
-This project focuses on analyzing bank marketing campaign data to understand customer behavior and improve campaign effectiveness. Using data analysis techniques, key insights were extracted such as customer response patterns, demographic influence, and conversion rates.
-The project includes data cleaning, exploratory data analysis (EDA), and visualization to identify important trends. Tools like Python, Pandas, and Matplotlib/Power BI were used to present meaningful insights.
+# 📊 Bank Data Analysis Project
 
-📊 Key Insights:
-Customer response rate analysis
-Age and job-wise campaign performance
-Deposit subscription patterns
-Factors influencing marketing success
+## 📌 Overview
+This project focuses on analyzing bank customer data to understand customer behavior and improve marketing performance. The goal is to extract meaningful insights that help improve term deposit subscription rates.
 
+---
 
-🎯 Objective: To help banks improve targeted marketing strategies and increase term deposit subscriptions.
+## 🎯 Objective
+- Analyze customer response patterns  
+- Understand demographic impact on marketing  
+- Identify factors influencing term deposit subscription  
+- Improve future marketing strategies  
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Jupyter Notebook / Google Colab  
+
